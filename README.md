@@ -35,3 +35,5 @@ gitbook build
 ## Integrate with the GitBook Editor
 
 It integrates well with the [GitBook Editor](https://github.com/GitbookIO/editor-legacy), you can download the editor from [releases](https://github.com/GitbookIO/editor-legacy/releases). 
+
+![](gitbook-editor.png)
