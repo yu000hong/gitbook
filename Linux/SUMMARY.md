@@ -9,4 +9,5 @@
    * [CPU Profiling Tools on Linux](profiling/cpu_profiling_tools_on_linux.md)
 * [Logging](logging/README)
    * [Understanding syslog, rsyslog, syslog-ng, journalctl](logging/understanding_syslog,_rsyslog,_syslog-ng,_journalctl.md)
+   * [Ultimate Guide to Logging](logging/ultimate_guide_to_logging.md)
 
