@@ -11,4 +11,7 @@
    * [Ansible change ssh port in playbook](ansible/ansible_change_ssh_port_in_playbook.md)
 * [SSH](ssh/README.md)
    * [Use custom ssh port](ssh/use_custom_ssh_port.md)
+* [Logging](logging/README)
+   * [Understanding syslog, rsyslog, syslog-ng, journalctl](logging/understanding_syslog,_rsyslog,_syslog-ng,_journalctl.md)
+   * [Ultimate Guide to Logging](logging/ultimate_guide_to_logging.md)
 
