@@ -9,9 +9,8 @@
    * [CPU Profiling Tools on Linux](profiling/cpu_profiling_tools_on_linux.md)
 * [Ansible](ansible/README.md)
    * [Ansible change ssh port in playbook](ansible/ansible_change_ssh_port_in_playbook.md)
+   * [Install Ansible Tower and How to crack it](ansible/install_ansible_tower_and_how_to_crack_it.md)
+   * [Tower: bubblewrap is not installed](ansible/tower_bubblewrap_is_not_installed.md)
 * [SSH](ssh/README.md)
    * [Use custom ssh port](ssh/use_custom_ssh_port.md)
-* [Logging](logging/README)
-   * [Understanding syslog, rsyslog, syslog-ng, journalctl](logging/understanding_syslog,_rsyslog,_syslog-ng,_journalctl.md)
-   * [Ultimate Guide to Logging](logging/ultimate_guide_to_logging.md)
 
