@@ -14,8 +14,10 @@
    * [Ansible change ssh port in playbook](ansible/ansible_change_ssh_port_in_playbook.md)
    * [Install Ansible Tower and How to crack it](ansible/install_ansible_tower_and_how_to_crack_it.md)
    * [Tower: bubblewrap is not installed](ansible/tower_bubblewrap_is_not_installed.md)
+   * [Backing Up and Restoring Tower](ansible/backing_up_and_restoring_tower.md)
 * [SSH](ssh/README.md)
    * [Use custom ssh port](ssh/use_custom_ssh_port.md)
+   * [How To Install / Enable OpenSSH On CentOS 7](ssh/how_to_install__enable_openssh_on_centos_7.md)
 * [Yum](yum/README.md)
    * [Cannot retrieve metalink for repository: epel](yum/cannot_retrieve_metalink_for_repository_epel.md)
 * [Supervisor](supervisor/README)
@@ -28,4 +30,7 @@
    * [LSB](vocabulary/lsb.md)
 * [Jenkins](jenkins/README.md)
    * [How to Backup and Restore Jenkins](jenkins/how_to_backup_and_restore_jenkins.md)
+* [Systemd](systemd/README.md)
+   * [Run Levels in Linux](systemd/run_levels_in_linux.md)
+   * [Creating a Linux service with systemd](systemd/creating_a_linux_service_with_systemd.md)
 
