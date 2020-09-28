@@ -22,6 +22,7 @@
    * [Cannot retrieve metalink for repository: epel](yum/cannot_retrieve_metalink_for_repository_epel.md)
 * [Supervisor](supervisor/README)
    * [Install supervisor on CentOS 6/7](supervisor/install_supervisor_on_centos_67.md)
+   * [Supervisord: Restarting and Reloading](supervisor/supervisord_restarting_and_reloading.md)
 * [Systemd & Service](systemd_&_service/README.md)
    * [Init Script Functions](systemd_&_service/init_script_functions.md)
    * [Starting Linux services with init scripts](systemd_&_service/starting_linux_services_with_init_scripts.md)
