@@ -38,4 +38,5 @@
    * [Creating a Linux service with systemd](systemd/creating_a_linux_service_with_systemd.md)
 * [Nginx](nginx/README)
    * [Checking nginx config file syntax](nginx/checking_nginx_config_file_syntax.md)
+   * [Applying new nginx configuration without restarting](nginx/applying_new_nginx_configuration_without_restarting.md)
 
