@@ -17,6 +17,7 @@
    * [Install Ansible Tower and How to crack it](ansible/install_ansible_tower_and_how_to_crack_it.md)
    * [Tower: bubblewrap is not installed](ansible/tower_bubblewrap_is_not_installed.md)
    * [Backing Up and Restoring Tower](ansible/backing_up_and_restoring_tower.md)
+   * [Error handling in playbooks](ansible/error_handling_in_playbooks.md)
 * [SSH](ssh/README.md)
    * [Use custom ssh port](ssh/use_custom_ssh_port.md)
    * [How To Install / Enable OpenSSH On CentOS 7](ssh/how_to_install__enable_openssh_on_centos_7.md)
