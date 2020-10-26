@@ -5,6 +5,8 @@
    * [alternatives](alternatives.md)
    * [The difference between nohup and daemon](the_difference_between_nohup_and_daemon.md)
    * [useradd: cannot open /etc/passwd](useradd_cannot_open_etcpasswd.md)
+   * [How to Use logrotate to Manage Log Files](how_to_use_logrotate_to_manage_log_files)
+   * [How to change user home directory in linux](how_to_change_user_home_directory_in_linux.md)
 * [mmap](mmap/README.md)
    * [Why mmap is faster than system calls](mmap/why_mmap_is_faster_than_system_calls.md)
 * [profiling](profiling/README.md)
@@ -34,4 +36,6 @@
 * [Systemd](systemd/README.md)
    * [Run Levels in Linux](systemd/run_levels_in_linux.md)
    * [Creating a Linux service with systemd](systemd/creating_a_linux_service_with_systemd.md)
+* [Nginx](nginx/README)
+   * [Checking nginx config file syntax](nginx/checking_nginx_config_file_syntax.md)
 
