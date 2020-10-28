@@ -40,4 +40,5 @@
 * [Nginx](nginx/README)
    * [Checking nginx config file syntax](nginx/checking_nginx_config_file_syntax.md)
    * [Applying new nginx configuration without restarting](nginx/applying_new_nginx_configuration_without_restarting.md)
+   * [Nginx location match tester](nginx/nginx_location_match_tester.md)
 
