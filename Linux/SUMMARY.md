@@ -7,6 +7,7 @@
    * [useradd: cannot open /etc/passwd](useradd_cannot_open_etcpasswd.md)
    * [How to Use logrotate to Manage Log Files](how_to_use_logrotate_to_manage_log_files)
    * [How to change user home directory in linux](how_to_change_user_home_directory_in_linux.md)
+   * [How to change hostname without reboot on CentOS 7](how_to_change_hostname_without_reboot_on_centos_7.md)
 * [mmap](mmap/README.md)
    * [Why mmap is faster than system calls](mmap/why_mmap_is_faster_than_system_calls.md)
 * [profiling](profiling/README.md)
