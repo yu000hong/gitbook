@@ -73,6 +73,18 @@ $ sudo docker run -d -p 443:443 --name tower ybalt/ansible-tower
 - 帐号：admin
 - 密码：password
 
+**修改密码**
+
+```bash
+# tower-manage changepassword admin
+Changing password for user 'admin'
+Password:
+Password (again):
+Password changed successfully for user 'admin'
+```
+
+交互模式下输入新密码即可修改密码。
+
 ### 破解 Ansible Tower
 
 > 无论是使用bundle包安装还是使用Docker，下面的步骤都是一样的，不一样的是一个是在主机环境中操作，一个是在Docker环境中操作。
