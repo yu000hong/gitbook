@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+   * [Various pool configurations](various_pool_configurations.md)
 * [JMX](jmx/README.md)
    * [JMX Best Practices](jmx/jmx_best_practices.md)
    * [Getting Started with Java Management Extensions (JMX)](jmx/getting_started_with_java_management_extensions_jmx.md)
