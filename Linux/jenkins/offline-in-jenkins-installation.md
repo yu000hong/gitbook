@@ -11,6 +11,8 @@ Jenkins刚安装好后，登录出现如下图的离线的问题：
 - 第三步：添加网站证书
 - 第四步：重启Jenkins
 
+**⚠️补充说明**：其实我们需要做的仅仅只有**添加网站证书**，不需要修改更新网址！
+
 ### 第一步：打开配置页面
 
 [http://localhost:8080/pluginManager/advanced](http://localhost:8080/pluginManager/advanced)
